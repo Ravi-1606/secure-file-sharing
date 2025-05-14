@@ -59,6 +59,3 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Postman collections and environments (optional)
-*.postman_collection.json
-*.postman_environment.json
